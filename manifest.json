@@ -1,0 +1,9 @@
+{
+  "name": "Fantasy Cricket Arena",
+  "short_name": "Fantasy Arena",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#10172a",
+  "icons": []
+}
